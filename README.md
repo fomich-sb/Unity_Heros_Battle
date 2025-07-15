@@ -17,3 +17,5 @@
   - Unity Particle System (для визуальных эффектов атак)
   - Unity Input System
   - Unity UI (для интерфейса пользователя)
+![olimp](https://github.com/user-attachments/assets/2d82bfae-47ab-438a-b2bc-49074c72ea57)
+![elisey](https://github.com/user-attachments/assets/1a879ace-b49c-47ad-ad0d-df50589d96a8)
